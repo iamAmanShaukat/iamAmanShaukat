@@ -1,78 +1,275 @@
-<h2 align="center">Hello there! 👋 I'm Aman Shaukat.</h2> 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Shaukat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
-<p align="center">
-I'm a Backend Software Engineer from India, currently based in London, UK, with a Master's in Computer Science (Distinction) and 3 years of experience. My expertise lies in building high-performance microservices with technologies like <b>Java</b>, <b>Spring Boot</b>, <b>Python</b>, and <b>Django</b>.
-</p>
+<div align="center">
+  
+  ### 🚀 Backend Software Engineer | Microservices Architect | AI/ML Enthusiast
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=3%2B+Years+in+Backend+Development;Microservices+%7C+Spring+Boot+%7C+Python;4-Star+CodeChef+%7C+Competitive+Programmer;AI%2FML+%7C+Deep+Learning+%7C+Computer+Vision;MSc+Computer+Science+(Distinction)" alt="Typing SVG" />
+  
+</div>
 
-<p align="center">
-With a strong foundation in <b>microservices architecture</b>, <b>distributed systems</b>, and <b>problem-solving</b>, I have a deep passion for <b>AI/ML</b> and building scalable backend systems. I'm also a competitive programmer with <b>4-star rating on CodeChef</b> and actively work on machine learning projects.
-</p>
+<br>
 
-<p align="center">
-Let's connect to collaborate and explore innovative solutions in backend development and AI. I believe in <b>continuous learning</b> and writing clean, maintainable code that drives real-world impact.
-</p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=iamAmanShaukat&label=Profile%20views&color=0e75b6&style=flat" alt="iamAmanShaukat" /> 
-</p>
+### 👨‍💻 About Me
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamAmanShaukat" alt="iamAmanShaukat" /></a> 
-</p>
+```javascript
+const aman = {
+    location: "London, UK 🇬🇧",
+    education: "MSc Computer Science (Distinction)",
+    experience: "3+ years in Backend Development",
+    currentFocus: ["Microservices", "AI/ML", "System Design"],
+    workAuthorization: "UK Graduate Visa",
+    
+    techStack: {
+        backend: ["Java", "Spring Boot", "Python", "Django"],
+        databases: ["PostgreSQL", "MongoDB", "Redis"],
+        messaging: ["Kafka", "RabbitMQ", "gRPC"],
+        devOps: ["Docker", "Kubernetes", "AWS"],
+        ai_ml: ["PyTorch", "TensorFlow", "NLP", "Computer Vision"]
+    },
+    
+    currentlyLearning: ["Deep Learning", "Advanced Kubernetes", "RAG Systems"],
+    askMeAbout: ["System Design", "Microservices", "Competitive Programming"],
+    funFact: "I've solved 1000+ DSA problems across multiple platforms! 💪"
+};
+```
 
-### 🔭 I'm currently working on:
-- Building AI-powered solutions for video forensics and deepfake detection.
-- Exploring cloud-native architectures and microservices optimization.
+<br clear="right"/>
 
-### 🌱 I'm currently learning:
-- Expanding my expertise in **Deep Learning**, **Computer Vision**, and **NLP**.
-- Exploring **Kubernetes orchestration** and advanced **ML model deployment**.
+---
 
-### 👯 I'm looking to collaborate on:
-- Innovative projects in **Backend Development**, **Microservices Architecture**, **AI/ML applications**, and **Distributed Systems**.
+### 🛠️ Tech Stack & Tools
 
-### 💬 Ask me about:
-- **Java**, **Spring Boot**, **Python**, **Django**, **Microservices**, **System Design**, and **Competitive Programming**.
+<details open>
+<summary><b>🔧 Languages & Frameworks</b></summary>
+<br>
 
-### 📫 How to reach me:
-- You can reach me via email at <a href="mailto:iamAmanShaukat@gmail.com"><b>iamAmanShaukat@gmail.com</b></a>
-- Or connect with me on <a href="https://linkedin.com/in/amanshaukat"><b>LinkedIn</b></a>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amanshaukat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aman Shaukat" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/iam_aman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Aman Shaukat" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/i_aman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Aman Shaukat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/iam_aman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Aman Shaukat" height="30" width="40" /></a>
-</p>
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> </a>
-<a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a>
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
-</p>
+<details open>
+<summary><b>💾 Databases & Caching</b></summary>
+<br>
 
-### 🏆 Competitive Programming Achievements:
-- **CodeChef**: 4-star (1816 rating) - [Profile](https://www.codechef.com/users/iam_aman)
-- **Codeforces**: 1100+ rating - [Profile](https://codeforces.com/profile/i_aman)
-- **HackerRank**: 5-star rating - [Profile](https://www.hackerrank.com/iam_aman)
-- **Google Kickstart**: Global rank 2319 (October 2020)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🚀 Featured Projects:
-- **[AI-Altered Video Detection](https://github.com/iamAmanShaukat/ai-altered_video_detector)**: Hybrid dual-stream model achieving 93% accuracy in detecting deepfakes using Xception and ResNet18, deployed with FastAPI.
+</details>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamAmanShaukat&layout=compact" alt="iamAmanShaukat"/></p>
+<details open>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamAmanShaukat&show_icons=true&locale=en" alt="iamAmanShaukat" /></p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamAmanShaukat&" alt="iamAmanShaukat" /></p>
+</details>
+
+<details open>
+<summary><b>🔄 Message Queues & APIs</b></summary>
+<br>
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</details>
+
+---
+
+### 🏆 Competitive Programming Achievements
+
+<div align="center">
+
+| Platform | Achievement | Rating/Rank | Profile |
+|:---:|:---:|:---:|:---:|
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white) | ⭐⭐⭐⭐ 4-Star | 1816 | [iam_aman](https://www.codechef.com/users/iam_aman) |
+| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white) | Specialist | 1100+ | [i_aman](https://codeforces.com/profile/i_aman) |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white) | ⭐⭐⭐⭐⭐ 5-Star | - | [iam_aman](https://www.hackerrank.com/iam_aman) |
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) | Kickstart 2020 | Rank 2319 | October Round |
+
+</div>
+
+---
+
+### 💼 Professional Experience Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔹 Sinch (Software Engineer)
+**Mar 2022 - Aug 2024 | India**
+
+- 🚀 Migrated monolith → microservices (80% faster resolution)
+- ⚡ Custom ID system: 20% query performance boost
+- 📚 Built Spring Boot logging library (20+ services)
+- 🔐 OAuth authorization & Google RCS integration
+- ✅ Code coverage: 30% → 80% with JUnit/Mockito
+
+</td>
+<td width="50%">
+
+#### 🔹 Go4world Business
+**Sep 2021 - Feb 2022 | India**
+
+- 🐍 Python & Django development
+- 🚄 Redis caching: 20% faster response time
+- 🔧 Resolved 20+ production issues
+- 📈 15% database load reduction
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🎥 AI-Altered Video Detection</h3>
+
+<div align="center">  
+<a href="https://github.com/iamAmanShaukat/ai-altered_video_detector">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamAmanShaukat&repo=ai-altered_video_detector&theme=react&hide_border=true&bg_color=0D1117" alt="AI Video Detection"/>
+</a>
+</div>
+
+**Tech Stack:**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+✨ **93% accuracy** in deepfake detection  
+✨ Hybrid dual-stream architecture  
+✨ Real-time web deployment
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🎓 More Projects Coming Soon</h3>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+**Areas of Interest:**
+- 🤖 AI/ML Applications
+- 🏗️ Distributed Systems
+- 🔐 Security & Authentication
+- 📊 Data Processing Pipelines
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamAmanShaukat&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamAmanShaukat&theme=react&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamAmanShaukat&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamAmanShaukat&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamAmanShaukat&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamAmanShaukat&custom_title=Aman's%20Contribution%20Graph&bg_color=0D1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanshaukat)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamAmanShaukat@gmail.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/iam_aman)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/i_aman)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/iam_aman)
+
+</div>
+
+---
+
+### 💭 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+### 🔥 Profile Views & Streak
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=iamAmanShaukat&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![](https://img.shields.io/github/followers/iamAmanShaukat?label=Followers&style=for-the-badge&color=blue)
+![](https://img.shields.io/github/stars/iamAmanShaukat?label=Stars&style=for-the-badge&color=yellow)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+### 🚀 Open to collaboration on exciting Backend & AI/ML projects!
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
