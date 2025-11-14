@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### 🚀 Backend Software Engineer | Microservices Architect | AI/ML Enthusiast
+  ### 🚀 Backend Software Engineer | Microservices Architect | AI Enthusiast
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=3%2B+Years+in+Backend+Development;Microservices+%7C+Spring+Boot+%7C+Python;4-Star+CodeChef+%7C+Competitive+Programmer;AI%2FML+%7C+Deep+Learning+%7C+Computer+Vision;MSc+Computer+Science+(Distinction)" alt="Typing SVG" />
   
