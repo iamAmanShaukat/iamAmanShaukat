@@ -21,8 +21,7 @@ const aman = {
     location: "London, UK 🇬🇧",
     education: "MSc Computer Science (Distinction)",
     experience: "3+ years in Backend Development",
-    currentFocus: ["Microservices", "AI/ML", "System Design"],
-    workAuthorization: "UK Graduate Visa",
+    currentFocus: ["Microservices", "AI/ML", "System Design"]
     
     techStack: {
         backend: ["Java", "Spring Boot", "Python", "Django"],
